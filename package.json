@@ -8,7 +8,5 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "quill-better-table": "^1.2.10"
-  }
+  "dependencies": {}
 }

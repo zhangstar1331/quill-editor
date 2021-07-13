@@ -1,18 +1,18 @@
-#editor .ql-editor {
+#editor .ql-editor,#content .ql-editor {
   height: 300px;
 }
 
-#editor x-contain, contain {
+#editor x-contain, #content x-contain, contain {
   background: #ffbb88;
   display: block;
 }
 
-#editor table {
+#editor table, #content table {
   width: 100%;
   border-collapse: collapse;
 }
 
-#editor table td {
+#editor table td, #content table td {
   border: 1px solid black;
   padding: 5px;
   height: 25px;
